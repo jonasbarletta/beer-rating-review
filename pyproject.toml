@@ -1,0 +1,20 @@
+[project]
+name = "beer-rating-review"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "scikit-learn>=1.9.1",
+    "statsmodels>=0.15.0",
+]
+
+[tool.uv]
+native-tls = true
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]
