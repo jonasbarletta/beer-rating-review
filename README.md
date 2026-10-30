@@ -15,7 +15,6 @@ The whole analysis is in [`exploratory_analyses/eda.ipynb`](exploratory_analyses
 - **User:** profile name, age, birthday and gender (most of them are empty).
 
 ## Questions and answers
-
 ### 1. First impressions
 
 - The dataset is a catalog of beers, with reviews, written by users.
